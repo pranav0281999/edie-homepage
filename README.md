@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/pranav0281999/edie-homepage/master/work/desktopScreenshot.png)
+![screenshot](https://raw.githubusercontent.com/pranav0281999/edie-homepage/master/demo/desktopScreenshot.png)
 
 - I developed this project with Gatsby, so I learned that, and I improved by knowledge in CSS.
 - My wisdom is, have some practice with CSS media queries and flex-box.
