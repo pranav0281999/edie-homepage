@@ -1,0 +1,169 @@
+.div-hero {
+    margin: 40px 0 100px 0;
+    padding: 0 50px;
+}
+
+.div-heading {
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 40px;
+    min-width: 450px;
+}
+
+.p-blue {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #2D9CDB;
+}
+
+.p-heading {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 72px;
+    color: #333333;
+}
+
+.img-hero {
+    width: 100%;
+    margin: 35px 0;
+    border-radius: 18px;
+}
+
+.div-content {
+    width: 30%;
+    margin-left: 10%;
+    min-width: 400px;
+}
+
+.p-content {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #4F4F4F;
+    margin-top: 35px;
+}
+
+.div-input {
+    margin-top: 40px;
+}
+
+.p-input {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    color: #828282;
+    margin-bottom: 10px;
+}
+
+.div-input-inner {
+    width: 100%;
+    background: #F2F2F2;
+    border-radius: 12px;
+    height: 57px;
+    padding: 4px 4px 4px 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.input-style {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #BDBDBD;
+    border: none;
+    outline: none;
+    background: none;
+    width: calc(100% - 60px);
+}
+
+.button-input {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #F2F2F2;
+    background: #2D9CDB;
+    border-radius: 12px;
+    padding: 0 27px;
+    height: 100%;
+    border: none;
+    outline: none;
+}
+
+@media (max-width: 768px) {
+    .div-hero {
+        margin: 48px 0 50px 0;
+        padding: 0 10px;
+    }
+
+    .div-heading {
+        width: 80%;
+        margin-left: 10%;
+        margin-top: 40px;
+        min-width: unset;
+    }
+
+    .p-blue {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .p-heading {
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    .img-hero {
+        margin: 15px 0;
+    }
+
+    .div-content {
+        width: 80%;
+        margin-left: 10%;
+        min-width: unset;
+    }
+
+    .p-content {
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 15px;
+    }
+
+    .div-input {
+        margin-top: 25px;
+    }
+
+    .p-input {
+        font-size: 10px;
+        line-height: 15px;
+        margin-bottom: 5px;
+    }
+
+    .div-input-inner {
+        height: 47px;
+    }
+
+    .input-style {
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    .button-input {
+        font-size: 14px;
+        line-height: 21px;
+        padding: 0 21px;
+    }
+}
