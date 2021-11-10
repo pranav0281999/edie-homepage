@@ -38,7 +38,7 @@
 }
 
 .p-mobile-menu {
-    display: none;
+    display: none !important;
     z-index: 101;
     font-size: 25px;
     top: 13px;
@@ -79,6 +79,6 @@
     }
 
     .p-mobile-menu {
-        display: block;
+        display: block !important;
     }
 }

@@ -46,12 +46,12 @@ const FooterBar = () => {
           </div>
         </div>
       </div>
-      <p className={pFooter}>created by
+      <p className={pFooter}>created by&nbsp;
         <a
           href={"https://pranav0281999.github.io/"}
           target={"_blank"}
         >pranav0281999</a>
-        - devChallenges.io
+        &nbsp;- devChallenges.io
       </p>
     </footer>
   )
